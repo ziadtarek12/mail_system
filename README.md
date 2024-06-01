@@ -38,3 +38,7 @@ To run this project locally, you need to have Python 3.8 or later and Django 3.2
 ```bash
 pip install django
 python manage.py runserver
+```
+
+## Preview 
+[Link of hosted site](https://ziadomar.pythonanywhere.com/login?next=/)
